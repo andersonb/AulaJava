@@ -1,6 +1,6 @@
 package com.test;
 
-public class List{
+public class List implements IList{
 	
 	private No start;
 	private int size = 0;
